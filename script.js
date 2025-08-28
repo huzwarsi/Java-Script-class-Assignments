@@ -1,4 +1,4 @@
-//  1) Comparison Operators
+//  1) Comparison Operators Developed By Huzaifa Ali
 //  i)
 var firstNum = 10;
 var secondNum = 15;
